@@ -1,0 +1,80 @@
+/*------------------Fonts----------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.enjoy {
+    text-decoration: blink;
+    font-style: italic;
+    font-size: x-large;
+    text-shadow: 3px 2px black;
+}
+
+#intro-name {
+  text-shadow: 3px 2px black;
+}
+
+/*------------------Headings---------------*/
+
+h1, h2 {
+  font-family: "Exo", sans-serif;
+  font-weight: 300;
+}
+
+/*------------------Navbar---------------*/
+
+
+
+/*----space the intro from top and sides and this will leave room for the navbar------*/
+
+#intro {
+  padding-top: 60px;
+  background-color: red;
+  font-family: "Roboto" !important;
+  font-weight: 600;
+  color: #f1f1f1;
+}
+
+#heads {
+  padding-top: 20px;
+}
+
+/*-------Slideshow-------------------------*/
+
+
+
+/*-------Head Photo Shaping-------------------------*/
+
+.person {
+  border: 10px solid transparent;
+  /*margin-bottom: 20px;
+  width: 90%;
+  height: 90%;
+  opacity: 0.9;*/
+}
+
+.person:hover {
+  border-color: #f1f1f1;
+}
+
+/*-------Look-Listen-------------------------*/
+
+
+/*-------Live Dates-------------------------*/
+
+
+
+/*------------------------------------------Contact----------------------------- */
+
+
+
+/*------------------------------------------News --------------------------------*/
+
+
+
+
+/*------------------------------------------Footer */
