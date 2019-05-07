@@ -27,6 +27,25 @@ h1, h2 {
 
 /*------------------Navbar---------------*/
 
+.collapse,
+.navbar-brand {
+  font-family: "Exo", sans-serif;
+  font-weight: 400;
+  color: #f1f1f1;
+}
+
+.navbar-toggle {
+  position: center;
+}
+
+.nav {
+padding-right: 20px;
+}
+
+.navbar-brand {
+  padding-left: 25px;
+}
+
 
 
 /*----space the intro from top and sides and this will leave room for the navbar------*/
@@ -74,7 +93,72 @@ h1, h2 {
 
 /*-------Live Dates-------------------------*/
 
+.live-dates {
+  padding-top: 80px;
+}
 
+.gigs {
+  background-image: url("/assets/images/backgrounds/spotlights.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: auto;
+  content: center;
+  font-family: "Exo", sans-serif;
+  font-weight: 300;
+  width: 1800;
+  height: 1000;
+  padding: 0;
+}
+
+.gig-box {
+  background-color: #dedede;
+  opacity: 0.5;
+  padding: 5px;
+  margin: 15px;
+  border-style: double;
+  border-width: 15px;
+  border-color: black;
+}
+
+.gig-date {
+  content: center;
+  font-family: "Exo 2", sans-serif;
+  font-weight: 300;
+  text-align: center
+}
+
+.gig-venue {
+  content: center;
+  font-family: "Exo 2", sans-serif;
+  font-weight: 300;
+  text-align: center
+  
+}
+
+.gig-tickets {
+    content: center;
+  font-family: "Exo 2", sans-serif;
+  font-weight: 300;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+
+.container-fluid {
+  padding: 0;
+}
+
+.ld-head, .ld-para {
+  background-color: black;
+}
 
 /*------------------------------------------Contact----------------------------- */
 
