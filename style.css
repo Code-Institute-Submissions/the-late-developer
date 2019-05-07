@@ -45,6 +45,10 @@ h1, h2 {
 
 /*-------Slideshow-------------------------*/
 
+  .carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    /*margin: auto;*/
+  }
 
 
 /*-------Head Photo Shaping-------------------------*/
