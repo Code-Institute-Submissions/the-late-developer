@@ -162,6 +162,32 @@ a:hover {
 
 /*------------------------------------------Contact----------------------------- */
 
+#contact-bg {
+  background-color: #bfefff;
+  margin-bottom: 25px;
+  
+}
+
+.container-inner-form {
+  padding-bottom: 30px;
+  padding-left: 70px;
+  padding-top: 30px;
+  margin-left: 100px;
+}
+
+#cu-heading,
+#cu-para,
+#news-heading,
+#news-para {
+  text-align: center;
+  content: center;
+  font-family: "Exo", sans-serif;
+  font-weight: 300;
+}
+
+#contact-us {
+  background-color: #9ac0cd;
+}
 
 
 /*------------------------------------------News --------------------------------*/
