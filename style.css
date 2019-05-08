@@ -34,9 +34,6 @@ h1, h2 {
   color: #f1f1f1;
 }
 
-.navbar-toggle {
-  position: center;
-}
 
 .nav {
 padding-right: 20px;
@@ -102,11 +99,8 @@ padding-right: 20px;
   background-repeat: repeat;
   background-position: center;
   background-size: auto;
-  content: center;
   font-family: "Exo", sans-serif;
   font-weight: 300;
-  width: 1800;
-  height: 1000;
   padding: 0;
 }
 
@@ -121,14 +115,12 @@ padding-right: 20px;
 }
 
 .gig-date {
-  content: center;
   font-family: "Exo 2", sans-serif;
   font-weight: 300;
   text-align: center
 }
 
 .gig-venue {
-  content: center;
   font-family: "Exo 2", sans-serif;
   font-weight: 300;
   text-align: center
@@ -136,7 +128,6 @@ padding-right: 20px;
 }
 
 .gig-tickets {
-    content: center;
   font-family: "Exo 2", sans-serif;
   font-weight: 300;
   text-align: center;
@@ -180,7 +171,6 @@ a:hover {
 #news-heading,
 #news-para {
   text-align: center;
-  content: center;
   font-family: "Exo", sans-serif;
   font-weight: 300;
 }
